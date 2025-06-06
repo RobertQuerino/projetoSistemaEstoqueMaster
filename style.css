@@ -131,6 +131,26 @@ section#pesquisa > button {
   
 }
 
+#mensagemModal2 {
+
+  display: none;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.644);
+  color: white;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  text-align: center;
+
+}
+
 #overlay {
 
   display: none;

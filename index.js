@@ -85,7 +85,7 @@ function consultarSd() {
 
       document.getElementById("mensagemTexto").innerHTML = "Item não encontrado.";
       document.getElementById("overlay").style.display = "block";
-      document.getElementById("mensagemModal").style.display = "block";
+      document.getElementById("mensagemModal").style.display = "flex";
       
   }
 

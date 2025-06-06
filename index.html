@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Estoque Master Cargas</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="index.js"></script>
+</head>
+<body>
+  
+  <header>
+
+    <section id="consultaSd">
+
+      <div id="logo">
+
+        <img id="master" src="images/Logo-Master-Verde.png" alt="logoMaster">
+        <img id="toyota" src="images/logo-toyota.png" alt="logoToyota">
+
+      </div>
+
+      <section id="pesquisa">
+
+        <input type="text" name="consul" id="consul">
+        <button onclick="consultarSd()">CONSULTAR</button>
+
+      </section>
+
+      <div id="overlay"></div>
+
+      <div id="mensagemModal">
+
+          <p id="mensagemTexto"></p>
+          <button onclick="fecharMensagem()">OK</button>
+          
+      </div>
+
+
+    </section>
+
+  </header>
+
+</body>
+</html>

@@ -131,7 +131,7 @@ const estoque = {
   rua04: [
 
      {sd:236, rua:4, bloco:1, nivel:"a"},
-     {sd:2027, rua:4, bloco:2, nivel:"a"},
+     {sd:237, rua:4, bloco:2, nivel:"a"},
      {sd:245, rua:4, bloco:3, nivel:"a"},
      {sd:248, rua:4, bloco:4, nivel:"a"},
      {sd:465, rua:4, bloco:5, nivel:"a"},

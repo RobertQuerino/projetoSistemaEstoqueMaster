@@ -173,14 +173,14 @@ const estoque = {
      {sd:1698, rua:4, bloco:43, nivel:"a"},
      {sd:1564, rua:4, bloco:44, nivel:"a"},
      {sd:2155, rua:4, bloco:45, nivel:"a"},
-     {sd:988, rua:4, bloco:46, nivel:"a"},
+     {sd:998, rua:4, bloco:46, nivel:"a"},
      {sd:2862, rua:4, bloco:47, nivel:"a"},
      {sd:1460, rua:4, bloco:48, nivel:"a"},
      {sd:2604, rua:4, bloco:49, nivel:"a"},
      {sd:463, rua:4, bloco:50, nivel:"a"},
      {sd:264, rua:4, bloco:51, nivel:"a"},
      {sd:403, rua:4, bloco:52, nivel:"a"},
-     {sd:null, rua:4, bloco:53, nivel:"a"},
+     {sd:1570, rua:4, bloco:53, nivel:"a"},
      {sd:null, rua:4, bloco:54, nivel:"a"},
      {sd:null, rua:4, bloco:55, nivel:"a"},
      {sd:null, rua:4, bloco:56, nivel:"a"},
@@ -412,4 +412,3 @@ function fecharMensagem() {
       document.getElementById("mensagemModal").style.display = "none";
 
 }
-
